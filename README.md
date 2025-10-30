@@ -37,7 +37,7 @@ Aplicación desarrollada con **React + TypeScript** que permite gestionar pelíc
 
 ## 🎨 Diseño
 
-- **Tema**: Rojo y Negro
+- **Tema**: Azul y Negro
 - **Responsive**: Adaptable a diferentes tamaños de pantalla
 - **Animaciones**: Transiciones suaves y efectos hover
 - **UX**: Interfaz intuitiva y centrada
